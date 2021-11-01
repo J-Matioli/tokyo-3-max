@@ -1,0 +1,19 @@
+{
+  "name": "tokyo_3_max_front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "css"
+  ],
+  "author": "José Mateus Matioli",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MYSQL_USER" : "dev",
+        "MYSQL_PASSWORD" : "tokyo_3_max",
+        "MYSQL_DATABASE" : "tokyo-3-max",
+        "MYSQL_HOST" : "localhost",
+        "MYSQL_PORT" : 3306
+    }
+}
